@@ -1,5 +1,5 @@
 # DS4003 Dashboard
-## What This Dashboard About
+## Dashboard Description
 This dashboard is meant to track carbon dioxide (CO2) emissions based on the year selected by the user. It enables those to look at totals and per capita emissions for each country,
 the type of greenhouse gas emission, and how each type of emission has looked over time. This dashboard is meant for those who are curious about the world's greenhouse gas emissions
 based on our ongoing climate crisis, which is also my motivtion for building it. There is no specific age or condition requirement to understand it; it is meant to be a quick resource for those wanting to know more about carbon dioxide emissions.
